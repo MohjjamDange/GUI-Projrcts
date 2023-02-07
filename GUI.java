@@ -110,7 +110,7 @@ class Calculator extends WindowAdapter implements ActionListener
         {
             lobj.setText("Enter the Value :");
             t1.setText(""+(iNo1 = 0));
-            t1.setText(""+(iNo2 = 0));
+            t2.setText(""+(iNo2 = 0));
             
         }
     }
